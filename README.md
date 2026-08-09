@@ -8,5 +8,7 @@
 
 <h2 align="centre">👤 who am i ?</h2>
 I’m a BTech IT student and AI-focused engineer passionate about building real-world solutions.
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AniketPawar06/AniketPawar06/output/snake.svg" alt="Snake animation" />
+</div>
 
