@@ -6,4 +6,7 @@
 <h3 align="center">Transforming concepts into reality through the development of software that seamlessly merges technology and artistic innovation.</h3>
 - 📫 How to reach me **pawaraniket5649@gmail.com**
 
+👤 Who am I?
+I’m a BTech IT student and AI-focused engineer passionate about building real-world solutions.
+
 
