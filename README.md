@@ -10,6 +10,21 @@ I’m a BTech IT student and AI-focused engineer passionate about building real-
 <div align="center">
   <img src="https://raw.githubusercontent.com/AniketPawar06/AniketPawar06/output/snake.svg" alt="Snake animation" />
 </div>
+### 🤝 Let’s Connect
+<p align="left">
+  <a href="https://github.com/AniketPawar06">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/aniket-pawar-29a264326/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/kon_aniii/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:pawaraniket5649@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 
