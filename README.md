@@ -5,8 +5,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Pawar </h1>
 <h3 align="center">Transforming concepts into reality through the development of software that seamlessly merges technology and artistic innovation.</h3>
 - 📫 How to reach me **pawaraniket5649@gmail.com**
-
-
+<br>
 
 👤 who am i ?
 
