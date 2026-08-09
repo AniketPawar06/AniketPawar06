@@ -7,7 +7,6 @@
 
 
 <h2 align="centre">👤 who am i ?</h2>
-
 I’m a BTech IT student and AI-focused engineer passionate about building real-world solutions.
 
 
