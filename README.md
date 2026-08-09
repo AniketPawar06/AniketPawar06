@@ -18,7 +18,7 @@ I’m a BTech IT student and AI-focused engineer passionate about building real-
   <a href="https://www.linkedin.com/in/aniket-pawar-29a264326/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/kon_aniii/">
+  <a href="https://www.instagram.com/aniketpawar.06/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:pawaraniket5649@gmail.com">
