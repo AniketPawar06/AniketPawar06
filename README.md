@@ -17,7 +17,6 @@ I’m a BTech IT student and AI-focused engineer passionate about building real-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AniketPawar06&show_icons=true&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AniketPawar06
     &theme=tokyonight" />
